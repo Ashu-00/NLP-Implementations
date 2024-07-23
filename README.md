@@ -1,10 +1,9 @@
 # LLM-Implementations
 Implementation of LLMs and related architectures.
 
-## Current - Implementations
+## Current Implementations
 - Transformer
 - RAG
 
 ## Future Ideas
-- Stable Diffusion
-- CLIP
+- LLama2 Implementation
