@@ -1,4 +1,4 @@
-# LLM-Implementations
+# NLP-Based-Implementations
 Implementation of LLMs and related architectures.
 
 ## Current Implementations
