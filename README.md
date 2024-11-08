@@ -2,8 +2,9 @@
 Implementation of LLMs and related architectures.
 
 ## Current Implementations
+- LLama2 
 - Transformer
 - RAG
 
 ## Future Ideas
-- LLama2 Implementation
+- LoRa Adapters from torch
