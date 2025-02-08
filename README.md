@@ -8,3 +8,4 @@ Implementation of LLMs and related architectures.
 
 ## Future Ideas
 - LoRa Adapters from torch
+- Explainable AI
