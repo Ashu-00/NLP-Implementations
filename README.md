@@ -11,9 +11,9 @@ Implementation of LLMs and related architectures.
     - Integrated Gradients in pytorch on GPT2
 5. LoRA adapters and Quantization in pytorch
 6. Decision Transformer for controlled toxicity in text generation
+7. ReAct Agent for a Time Travelling guide
 
 
 ## Future Ideas
-- LRP (XAI)
-- RLHF
+- More Agents!!
 
