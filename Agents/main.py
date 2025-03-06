@@ -47,6 +47,7 @@ _"Ah, Ancient Rome! If you want to blend in, ditch the jeans and grab a tunic—
 
 class TimeAdvisor:
     def __init__(self):
+            ## !!ADD YOUR GROQ API KEY TO ENVIRONMENT
             self.client = Groq(
         api_key=os.environ.get("GROQ_API_KEY"),
         )
